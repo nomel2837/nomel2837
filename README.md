@@ -39,10 +39,10 @@
 ## ⚙️ &nbsp;Stats
 
 <div align="center">
-  <img width="444em" src="https://github-readme-stats.vercel.app/api?username=nomel2837&&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Astrid96"/>
-  <img width="444em" src="https://github-readme-streak-stats.herokuapp.com?user=nomel2837&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Astrid96"/>
-  <img width="444em" src="https://github-profile-trophy.vercel.app/?username=nomel2837&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true&no-bg=true" alt="Astrid96"/>
-  <img width="444em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomel2837&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=11" alt="Astrid96"/>
+  <img width="444em" src="https://github-readme-stats.vercel.app/api?username=nomel2837&&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="nomel2837"/>
+  <img width="444em" src="https://github-readme-streak-stats.herokuapp.com?user=nomel2837&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nomel2837"/>
+  <img width="444em" src="https://github-profile-trophy.vercel.app/?username=nomel2837&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true&no-bg=true" alt="nomel2837"/>
+  <img width="444em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomel2837&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=11" alt="nomel2837"/>
 </div>
 
 <br/>
@@ -50,8 +50,6 @@
 ## 📱 &nbsp;Contacts
 
 <div align="center">
-  <a href="https://discordapp.com/users/913115395265794060"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Astrid96"/></a>
-  <a href="https://api.whatsapp.com/send?phone=+6288989882316"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Astrid96"/></a>
+  <a href="https://discordapp.com/users/826098988725829662"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="nomel2837"/></a>
+  <a href="https://www.instagram.com/_matchaamel/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nomel2837"/></a>
 </div>
-
-<img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
